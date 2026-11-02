@@ -1,4 +1,4 @@
-Hi I'm a Software Engineer with a bias towards SRE and DevSecOps. My projects explore the areas of information security, network engineering and system infrastructure. I am always willing to expand my skills and gain new experiences in IT.
+Hi I'm an Infrastructure Software Engineer with a bias towards SRE and DevSecOps. My projects explore the areas of information security, network engineering and system infrastructure. I am always willing to expand my skills and gain new experiences in IT.
 
 **Contact**
 * Email: mshchannikov@yandex.ru
